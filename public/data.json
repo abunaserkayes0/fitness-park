@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Pilates",
+    "age": "20-25",
+    "image": "https://i.ibb.co/StQDPfS/Pilates.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur quasi corporis debitis ab excepturi, porro ea. Optio voluptatum quos accusamus!",
+    "time": 30
+  },
+  {
+    "id": 2,
+    "name": "Circuit training",
+    "age": "25-35",
+    "image": "https://i.ibb.co/NTYYJNW/Circuit-training.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur quasi corporis debitis ab excepturi, porro ea. Optio voluptatum quos accusamus!",
+    "time": 30
+  },
+  {
+    "id": 3,
+    "name": "PushUps",
+    "age": "25-30",
+    "image": "https://i.ibb.co/z5wD9Wj/Pushups.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur quasi corporis debitis ab excepturi, porro ea. Optio voluptatum quos accusamus!",
+    "time": 15
+  },
+  {
+    "id": 4,
+    "name": "Squats",
+    "age": "23-36",
+    "image": "https://i.ibb.co/9scP7jG/Squats.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur quasi corporis debitis ab excepturi, porro ea. Optio voluptatum quos accusamus!",
+    "time": 60
+  },
+  {
+    "id": 5,
+    "name": "Burpee",
+    "age": "35-40",
+    "image": "https://i.ibb.co/wgZJXhw/Burpee.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur quasi corporis debitis ab excepturi, porro ea. Optio voluptatum quos accusamus!",
+    "time": 45
+  },
+  {
+    "id": 6,
+    "name": "Pull Up",
+    "age": "25-30",
+    "image": "https://i.ibb.co/25fy5qH/Pull-Up.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur quasi corporis debitis ab excepturi, porro ea. Optio voluptatum quos accusamus!",
+    "time": 10
+  },
+  {
+    "id": 7,
+    "name": "Lunge",
+    "age": "38-45",
+    "image": "https://i.ibb.co/McMQ5NN/Lunge.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur quasi corporis debitis ab excepturi, porro ea. Optio voluptatum quos accusamus!",
+    "time": 90
+  },
+  {
+    "id": 8,
+    "name": "Water aerobics",
+    "age": "21-29",
+    "image": "https://i.ibb.co/w4kKLgp/Water-aerobics.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur quasi corporis debitis ab excepturi, porro ea. Optio voluptatum quos accusamus!",
+    "time": 70
+  },
+  {
+    "id": 9,
+    "name": "Plank",
+    "age": "36-38",
+    "image": "https://i.ibb.co/2kctPF7/Plank.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur quasi corporis debitis ab excepturi, porro ea. Optio voluptatum quos accusamus!",
+    "time": 35
+  }
+]

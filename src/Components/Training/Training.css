@@ -1,0 +1,8 @@
+.trainings-container {
+  display: grid;
+  grid-template-columns: 80% 20%;
+}
+.training-calculation-container {
+  background-color: lightblue;
+  height: 45rem;
+}
